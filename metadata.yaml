@@ -1,0 +1,35 @@
+_repo: Aileen-Aroon-A-MemoirWith-other-Tales-of-Faithful-Friends-and-Favourites_37330
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Stables, Gordon
+    aliases:
+    - Stables, W. Gordon (William Gordon)
+    - Stables, William Gordon
+    birthdate: 1840
+    deathdate: 1910
+    gutenberg_agent_id: '4164'
+    url: http://www.gutenberg.org/2009/agents/4164
+description: ''
+gutenberg_issued: '2011-09-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37330'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-animal relationships -- Juvenile fiction'
+- !lcsh 'Animal welfare -- Juvenile fiction'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Pets -- Juvenile fiction'
+- !lcsh 'Loyalty -- Juvenile fiction'
+title: 'Aileen Aroon, A Memoir
+
+  With other Tales of Faithful Friends and Favourites'
+url: http://www.gutenberg.org/ebooks/37330
